@@ -1,0 +1,69 @@
+1
+00:00:04,580 --> 00:00:08,400
+Alright! Welcome to the course. In this
+section of the course, we're gonna start
+
+2
+00:00:08,400 --> 00:00:11,790
+laying down a baseline. What we need to
+do is start establishing a common
+
+3
+00:00:11,790 --> 00:00:17,910
+terminology and some of the terminology
+around SQL like what is a database? What
+
+4
+00:00:17,910 --> 00:00:21,720
+is a relational model? And things like
+that. We have some lectures in this
+
+5
+00:00:21,720 --> 00:00:24,900
+section of the course. They are just
+Powerpoints. They're going to talk about
+
+6
+00:00:24,900 --> 00:00:29,279
+the history of SQL and MySQL, about
+the programming languages, some the key
+
+7
+00:00:29,279 --> 00:00:33,600
+concepts so we can get that base
+terminology down and we're gonna get
+
+8
+00:00:33,600 --> 00:00:37,680
+some hands-on too. So I'm gonna keep it a
+little bit fluid but we also need to
+
+9
+00:00:37,680 --> 00:00:42,660
+kind of start establishing a baseline of
+some common terminology that we can use
+
+10
+00:00:42,660 --> 00:00:46,289
+going forward.
+So I'm gonna try to make it too boring
+
+11
+00:00:46,289 --> 00:00:49,289
+because I know saying through
+powerpoints can be pretty slow and
+
+12
+00:00:49,289 --> 00:00:53,430
+boring but hopefully you'll get a lot of
+benefit and start a really understanding
+
+13
+00:00:53,430 --> 00:00:58,079
+why SQL is used? Where it came from?
+How it came to be? And little bit of a
+
+14
+00:00:58,079 --> 00:01:02,270
+history of SQL in the industry.
+

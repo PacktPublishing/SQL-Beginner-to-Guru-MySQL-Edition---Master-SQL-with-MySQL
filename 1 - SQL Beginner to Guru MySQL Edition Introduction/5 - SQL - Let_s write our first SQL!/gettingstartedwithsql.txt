@@ -1,0 +1,8 @@
+CREATE TABLE tasks (
+  task_name VARCHAR(255),
+  complete BOOLEAN );
+  
+INSERT INTO tasks VALUES ('Study SQL', false);  
+
+SELECT * FROM tasks;
+
